@@ -1,0 +1,134 @@
+[
+  {
+    "id": "DS01",
+    "url": "https://www.fastretailing.com/eng/ir/news/2510091800.html",
+    "access_date": "2026-10-27",
+    "status": "fetched",
+    "path": "02_品牌证据与截图\\D_来源核验\\DS01.html",
+    "final_url": "https://www.fastretailing.com/eng/ir/news/2510091800.html",
+    "sha256": "b27b74f809f1afa20af542f24e48d1a6391d46a4661f4db4c9ed7fb0411e48d2",
+    "text_characters": 16848
+  },
+  {
+    "id": "DS02",
+    "url": "https://www.fastretailing.com/eng/ir/news/2610081800.html",
+    "access_date": "2026-10-27",
+    "status": "fetched",
+    "path": "02_品牌证据与截图\\D_来源核验\\DS02.html",
+    "final_url": "https://www.fastretailing.com/eng/ir/news/2610081800.html",
+    "sha256": "fbecc1defc5f0e8f59ecb3ea59ff9bb49f5a0017d743020fda04b94b5b678bb0",
+    "text_characters": 17282
+  },
+  {
+    "id": "DS03",
+    "url": "https://www.fastretailing.com/eng/ir/library/faq20251009.html",
+    "access_date": "2026-10-27",
+    "status": "fetched",
+    "path": "02_品牌证据与截图\\D_来源核验\\DS03.html",
+    "final_url": "https://www.fastretailing.com/eng/ir/library/faq20251009.html",
+    "sha256": "fe06f2c1e74df8de714d6483aa93cc6a411d7aaf51a30d54c8505bfbe4a6efdd",
+    "text_characters": 17516
+  },
+  {
+    "id": "DS04",
+    "url": "https://www.fastretailing.com/eng/ir/library/faq20261008.html",
+    "access_date": "2026-10-27",
+    "status": "fetched",
+    "path": "02_品牌证据与截图\\D_来源核验\\DS04.html",
+    "final_url": "https://www.fastretailing.com/eng/ir/library/faq20261008.html",
+    "sha256": "c3293c1a141f591ba62f93db32aaae67b8aa565bd76b1aaa7307d4b9c0139b33",
+    "text_characters": 15933
+  },
+  {
+    "id": "DS05",
+    "url": "https://www.inditex.com/itxcomweb/api/media/84135f02-0208-4439-b9c0-b13608fbfeb5/Annualaccountsanddirectorsreport2024consolidated.pdf?t=1742203067340",
+    "access_date": "2026-10-27",
+    "pages": 81,
+    "status": "fetched",
+    "path": "02_品牌证据与截图\\D_来源核验\\DS05.pdf",
+    "final_url": "https://www.inditex.cn/itxcomweb/api/media/84135f02-0208-4439-b9c0-b13608fbfeb5/Annualaccountsanddirectorsreport2024consolidated.pdf?t=1742203067340",
+    "sha256": "f8622e93b8215ce7cc87d08f58c80605c068b5b9d43c1b9483e69b7534e60cff",
+    "text_characters": 257831
+  },
+  {
+    "id": "DS06",
+    "url": "https://www.cnmv.es/webservices/verdocumento/ver?t=%7B967d7aac-f815-40c5-9982-25f3e9245c25%7D",
+    "access_date": "2026-10-27",
+    "status": "fetched",
+    "method": "Windows Invoke-WebRequest with normal certificate validation",
+    "previous_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>",
+    "pages": 19,
+    "path": "02_品牌证据与截图\\D_来源核验\\DS06.pdf",
+    "sha256": "d00501108398e7d11e94df1d6854f1a5668565f9aecc9a0c7261ceb91ce635fc",
+    "text_characters": 30491
+  },
+  {
+    "id": "DS07",
+    "url": "https://static.zara.net/assets/public/ef68/131f/278c4186be44/74c155545c39/ZARA_NANJING_XINJIEKOU_PRESS_RELEASE_EN.pdf?ts=1742432518731",
+    "access_date": "2026-10-27",
+    "pages": 9,
+    "status": "fetched",
+    "path": "02_品牌证据与截图\\D_来源核验\\DS07.pdf",
+    "final_url": "https://static.zara.net/assets/public/ef68/131f/278c4186be44/74c155545c39/ZARA_NANJING_XINJIEKOU_PRESS_RELEASE_EN.pdf?ts=1742432518731",
+    "sha256": "ff51200e9563444ba77d7a203e9639b37e014fc72e37b2dc6b431176a6924830",
+    "text_characters": 9793
+  },
+  {
+    "id": "DS08",
+    "url": "https://www.uniqlo.com/cn/news/topics/2025030301/",
+    "access_date": "2026-10-27",
+    "status": "fetched",
+    "path": "02_品牌证据与截图\\D_来源核验\\DS08.html",
+    "final_url": "https://www.uniqlo.com/cn/news/topics/2025030301/",
+    "sha256": "3e84641cd7f1ab5ede3ad22744c29382388b4aa7a552848caca670520c511e4c",
+    "text_characters": 5724
+  },
+  {
+    "id": "DS09",
+    "url": "https://www.uniqlo.com/cn/news/topics/2025072501/",
+    "access_date": "2026-10-27",
+    "status": "fetched",
+    "path": "02_品牌证据与截图\\D_来源核验\\DS09.html",
+    "final_url": "https://www.uniqlo.com/cn/news/topics/2025072501/",
+    "sha256": "7edb3fd30a20736fd52e419405e003312b428425336ddd6cc4143dc2725a147c",
+    "text_characters": 2462
+  },
+  {
+    "id": "DS10",
+    "url": "https://annualreport.inditex.com/anrpxxvui/en/our-drivers",
+    "access_date": "2026-10-27",
+    "status": "fetched",
+    "path": "02_品牌证据与截图\\D_来源核验\\DS10.html",
+    "final_url": "https://annualreport.inditex.com/anrpxxvui/en/our-drivers",
+    "sha256": "f8cbd677644670218727354853d81b5d84d36b1e4d7c24cdb57fb4e6bd460b3a",
+    "text_characters": 9503
+  },
+  {
+    "id": "A04",
+    "url": "https://www.dlyj.ac.cn/article/2017/1000-0585/1000-0585-36-2-281.shtml",
+    "access_date": "2026-10-27",
+    "status": "failed",
+    "error": "<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>"
+  },
+  {
+    "id": "A05",
+    "url": "https://www.joebm.com/vol8/638-BM2010.pdf",
+    "access_date": "2026-10-27",
+    "pages": 6,
+    "status": "fetched",
+    "path": "02_品牌证据与截图\\D_来源核验\\A05.pdf",
+    "final_url": "https://www.joebm.com/vol8/638-BM2010.pdf",
+    "sha256": "ccb8c95e7286ae78534418e4bd86ca8dd6cb6d9efe816f0b76fe4f30b9370160",
+    "text_characters": 35643
+  },
+  {
+    "id": "A06",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1190571/full",
+    "access_date": "2026-10-27",
+    "status": "fetched",
+    "path": "02_品牌证据与截图\\D_来源核验\\A06.html",
+    "final_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1190571/full",
+    "sha256": "7e00f343618608a2154d948e35eaf5fa2d67e19719466934065b937936336475",
+    "text_characters": 94367
+  }
+]
