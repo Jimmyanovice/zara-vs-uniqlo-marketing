@@ -1,3 +1,11 @@
+# Description of the Assessment Task
+
+> **Produce a group report analysing the competitive positioning of two rival brands in the same industry. Evaluate their marketing strategies and customer engagement. Provide recommendations on how one brand could improve its competitive advantage.**
+
+**作业要求：撰写一份小组报告，分析同一行业中两个竞争品牌的竞争定位，评价其营销策略与顾客参与，并为其中一个品牌提出提升竞争优势的建议。**
+
+---
+
 # ZARA 与优衣库：第二阶段初稿写作安排
 
 **本周目标：在第一阶段资料基础上，完成一篇结构完整、论点连贯、可以进入修改阶段的英文报告初稿。**
